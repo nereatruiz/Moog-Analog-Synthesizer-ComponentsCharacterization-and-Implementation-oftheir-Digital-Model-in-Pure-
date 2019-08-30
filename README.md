@@ -1,0 +1,1 @@
+# Moog-Analog-Synthesizer-ComponentsCharacterization-and-Implementation-oftheir-Digital-Model-in-Pure-
