@@ -28,6 +28,7 @@ The datasets of the projects are included in the repository as well. The files c
 
 Python scripts for data sampling are included in the corresponding folders. 
 
+The files related to the listening experiments are included in the repository. 
 
 SMC Master Thesis 2019. Nerea T. Ruiz
  
