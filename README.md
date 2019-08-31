@@ -1,4 +1,4 @@
-# Moog Analog Synthesizer Component Characterization and Implementation of their Digital Model in Pure Data
+# Moog Analog Synthesizer Component Characterization and Implementation of their Digital Model in Pure Data. SMC Master Thesis Nerea T. Ruiz. 2019
 
 This repository is part of the work done for the Master Thesis of Sound and Music Computing Master program in Universitat Pompeu Fabra (UPF). It includes the project files related to the implementation of a simplyfied digital version of the analog synthesizer Moog Slim Phatty.
 
@@ -37,5 +37,4 @@ Python scripts for data sampling are included in the corresponding folders.
 
 The files related to the listening experiments are included in the repository. 
 
-SMC Master Thesis 2019. Nerea T. Ruiz
  
