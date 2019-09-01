@@ -14,7 +14,7 @@ The Pure Data model includes 3 patches each implementing a different ladder filt
 
 All the patches implement characterized controls with the data extracted from the original synthesizer, thus imitating the non linear behaviour of its parameters. 
 
-The files 15072019_Moog_raw_PD_muug_object.pd, 15072019_Moog_raw_PD_bob_object.pd, and 15072019_Moog_raw_PD_moog_object.pd correspond to each of the patches developed for the project, each implementing a different ladder filter object, as indicated above. 
+The files Moog_PD_muug_object.pd, Moog_PD_bob_object.pd, and Moog_PD_moog_object.pd correspond to each of the patches developed for the project, each implementing a different ladder filter object, as indicated above. 
 
 Open the patches in Pure Data to run them. Each includes a GUI with the controls of the synthesizer, noting that the GUI is identical in every model. 
 
