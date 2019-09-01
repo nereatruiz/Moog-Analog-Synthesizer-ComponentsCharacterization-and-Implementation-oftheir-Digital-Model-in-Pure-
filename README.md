@@ -33,10 +33,17 @@ To run the patch install the dependencies listed below:
 
 All patches were developed with Pure Data version 0.49.1
 
-The datasets of the projects are included in the repository. The files contain the initial dataset designed for the characterization of the parameters in the original synthesizer and the dataset designed to conduct the experiment with the experts. 
+The python scripts for dataset creation are included in this repository:
 
-Python scripts for data sampling are included in the corresponding folders. 
+1) Script to create the parameter characterization dataset
+2) Script to sample the Moog waveforms
+3) Scriot to create an extended dataset to build a sampler.
+
 
 The files related to the listening experiments are included in the repository. 
+
+1) Google forms sheets
+2) Likert_scale_test_results
+3) Listening experiment Item Pair ID random configurations.
 
  
